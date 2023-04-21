@@ -1,39 +1,14 @@
-<script setup>
-import Card from './components/card.vue'
-</script>
-
 <template>
-
-  <!-- <main> -->
     <Card />
-  <!-- </main> -->
 </template>
 
-<!-- <style scoped>
-header {
-  line-height: 1.5;
-}
+<script>
+import {defineComponent} from "vue";
+import Card from "@/components/Card.vue";
 
-.logo {
-  display: block;
-  margin: 0 auto 2rem;
-}
+export default defineComponent({
+    components: {Card}
+})
+</script>
 
-@media (min-width: 1024px) {
-  header {
-    display: flex;
-    place-items: center;
-    padding-right: calc(var(--section-gap) / 2);
-  }
 
-  .logo {
-    margin: 0 2rem 0 0;
-  }
-
-  header .wrapper {
-    display: flex;
-    place-items: flex-start;
-    flex-wrap: wrap;
-  }
-}
-</style> -->
