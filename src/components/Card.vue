@@ -1,5 +1,6 @@
 <template>
-  <!-- <div class="card row">
+<<<<<<< HEAD
+  <div class="card row">
     <div class="column img-column-pp">
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH_lx0q2AyF1JGCa3cyDHI_DdHvO-XhmvI1Q&usqp=CAU" sizes="40px"  >
     </div>
@@ -14,69 +15,11 @@
   </div>
   <div>
     <p></p>
-  </div> -->
-  <!-- part form contacte lgd -->
-  <section>
-  <form class="contact-form row">
-      <div class="form-field col x-50">
-        <label class="label" for="name" v-translate="'Surname'" id="Surname">Votre Nom</label>
-         <input id="name" class="input-text js-input" type="text" required>
-      </div>
-      <div class="form-field col x-50">
-        <label class="label" for="name" v-translate="'Name'" id="Name">Votre Prenom</label>
-         <input id="name" class="input-text js-input" type="text" required>
-      </div>
-      <div class="form-field col x-50">
-        <label class="label" for="email" v-translate="'E-mail'" id="E-mail">Votre E-mail</label>
-         <input id="email" class="input-text js-input" type="email" required>
-      </div>
-      <div class="form-field col x-100">
-        <label class="label" for="message" v-translate="'Message'" id="Message">Votre message</label>
-         <input id="message" class="input-text js-input" type="text" required>
-      </div>
-      <div class="form-field col x-100 align-center">
-         <input class="submit-btn" type="submit" value="Submit">
-      </div>
-   </form>
-  </section>
+  </div>
 
-
-  
 </template>
 
 <style scoped>
-/* part form contacte lgd */
-.input-text {
-      display: block;
-      width: 100%;
-      height: 36px;
-      border-width: 0 0 2px 0;
-      border-color: #000;
-      font-family: Lusitana, serif;
-      font-size: 18px;
-      line-height: 26px;
-      font-weight: 400;
-   }
-label{
-  border-radius: 10%;
-}
-
-section{
-  width: 100%;
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 /* part av */
 .column {
