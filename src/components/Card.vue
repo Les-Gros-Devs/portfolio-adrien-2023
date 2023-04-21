@@ -1,5 +1,4 @@
 <template>
-<<<<<<< HEAD
   <div class="card row">
     <div class="column img-column-pp">
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH_lx0q2AyF1JGCa3cyDHI_DdHvO-XhmvI1Q&usqp=CAU" sizes="40px"  >
