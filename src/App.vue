@@ -7,6 +7,7 @@
         <CardExperience />
         <CardMemoryGame />
         <CardScreen />
+        <CardFooter />
     </div>
 </template>
 
@@ -19,9 +20,10 @@ import CardSkill from "./components/CardSkill.vue";
 import CardExperience from "./components/CardExperience.vue";
 import CardMemoryGame from "./components/CardMemoryGame.vue";
 import CardScreen from "./components/CardScreen.vue";
+import CardFooter from "./components/CardFooter.vue";
 
 export default defineComponent({
-    components: { Card, CardMail, CardDoubleSocial, CardSkill, CardExperience, CardMemoryGame, CardScreen },
+    components: { Card, CardMail, CardDoubleSocial, CardSkill, CardExperience, CardMemoryGame, CardScreen, CardFooter },
 })
 </script>
 
