@@ -35,12 +35,14 @@
             </div>
             <div class="w-1/2">
               <div class="grid grid-rows-2 h-card-body w-full">
-                  <a class="card-50 row" href="../assets/img/Adrien THOMAS (1)_page-0001.jpg" target="_blank">
+                <div class="mb-1">
+                  <a class="card-50 row mb-2" href="../assets/img/Adrien THOMAS (1)_page-0001.jpg" target="_blank">
                       Mon CV
                   </a>
-                  <a class="card-50 row">
+                  <a class="card-50 row m-0">
   
                   </a>
+                </div>
               </div>
             </div>
     </div>

@@ -13,12 +13,14 @@
       </div>
       <div class="w-1/2">
         <div class="grid grid-rows-2 h-card-body w-full">
+          <div class="mb-1">
             <a class="card-50 row mb-2 ">
                 screen 2
             </a>
-            <a class="card-50 row mt-2 ">
+            <a class="card-50 row m-0 ">
                 screen 3
             </a>
+          </div>
         </div>
       </div>
     </div>
