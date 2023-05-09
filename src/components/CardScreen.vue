@@ -6,7 +6,7 @@
           <div class="content">
             <div class="">
                 <h3>screen 1</h3>
-
+                <img src="">
             </div>
           </div>
         </a>
@@ -16,9 +16,11 @@
           <div class="mb-1">
             <a class="card-50 row mb-2 ">
                 screen 2
+                <img src="../assets/img/Adrien THOMAS (1)_page-0001.jpg">
             </a>
             <a class="card-50 row m-0 ">
                 screen 3
+                <img src="">
             </a>
           </div>
         </div>

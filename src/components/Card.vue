@@ -1,15 +1,14 @@
 <template>
   <div class="card row my-2">
     <div class="column img-column-pp">
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkzeXuaLxF-KsG4LaKS3UnXG5j7kON1Dow1g&usqp=CAU" >
+      <img src="../assets/img/PP-adrien.jpg" >
     </div>
     <div class="column">
       <div>
-        <h3>Thomas Adrien</h3>
+        <h3>THOMAS Adrien</h3>
       </div>
       <div>
-        <p>Available for freelance projects</p>
-        <canvas width="1000" height="1000" style=""></canvas>
+        <p>Disponible pour des projets en freelance</p>
       </div>
     </div>
   </div>
@@ -30,8 +29,8 @@
 }
 
 img {
-    width: 100%;
-    height: 40px;
+    width: 45px;
+    height: 45px;
     object-fit: cover;
     border-radius: 50%;
 }
