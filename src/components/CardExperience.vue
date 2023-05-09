@@ -6,7 +6,7 @@
               <div class="content">
                 <div class="">
                     <h3>FDI Partner</h3>
-                  <p>Stage de deux moi a la fin de ma formation</p>
+                    <p class="flex justify-start flex-col">Stage de deux moi a la fin de ma formation</p>
 
                 </div>
               </div>
@@ -22,22 +22,26 @@
         <!-- </div> -->
     </div>
     <div class="card-container my-2 w-full">
-            <a class="card-50 row h-card-body"  target="_blank">
-              <div class="content">
-                <div class="">
-                    <h3>Media 6</h3>
-                  <p>Travaille en industrie</p>
+            <div class="w-1/2">
+              <a class="card-50 row h-card-body"  target="_blank">
+                <div class="content">
+                  <div class="">
+                  <h3>Media 6</h3>
+                    <p>Travaille en industrie</p>
 
+                  </div>
                 </div>
+              </a>
+            </div>
+            <div class="w-1/2">
+              <div class="grid grid-rows-2 h-card-body w-full">
+                  <a class="card-50 row" href="../assets/img/Adrien THOMAS (1)_page-0001.jpg" target="_blank">
+                      Mon CV
+                  </a>
+                  <a class="card-50 row">
+  
+                  </a>
               </div>
-            </a>
-            <div class="grid grid-rows-2 h-card-body w-full">
-                <a class="card-50 row">
-                    Mon CV
-                </a>
-                <a class="card-50 row">
-
-                </a>
             </div>
     </div>
   </template>
@@ -50,13 +54,13 @@
 .content{
   display: flex;
 }
-path{
+/* path{
   height: 25px;
   width: 25px;
   height: auto;
   object-fit: cover;
   object-position: top right;
-}
+} */
 .h-card-body{
   height: 210px;
 }

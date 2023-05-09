@@ -1,7 +1,7 @@
 <template>
-  <div class="card row">
+  <div class="card row my-2">
     <div class="column img-column-pp">
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH_lx0q2AyF1JGCa3cyDHI_DdHvO-XhmvI1Q&usqp=CAU" >
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkzeXuaLxF-KsG4LaKS3UnXG5j7kON1Dow1g&usqp=CAU" >
     </div>
     <div class="column">
       <div>
@@ -9,6 +9,7 @@
       </div>
       <div>
         <p>Available for freelance projects</p>
+        <canvas width="1000" height="1000" style=""></canvas>
       </div>
     </div>
   </div>
@@ -29,7 +30,7 @@
 }
 
 img {
-    width: 40px;
+    width: 100%;
     height: 40px;
     object-fit: cover;
     border-radius: 50%;

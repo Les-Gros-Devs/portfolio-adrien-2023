@@ -15,7 +15,7 @@
     </div>
     <div class="my-2">
         <a class="card row ">
-          <div class="grid grid-cols-2 flex justify-center	">
+          <div class="grid grid-cols-2 flex justify-center">
             <div class="cols-span-1">
                <p>2021 - 2022</p> 
             </div>

@@ -1,7 +1,7 @@
 
 <template>
     <div class="my-2">
-        <a class="card row h-card-body" href="">
+        <a class="card row h-card-body" href="https://adriennnnn.github.io/memory/">
             <p class="flex justify-start flex-col-reverse">Jeux de memoire</p>
         </a>
 

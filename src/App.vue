@@ -1,5 +1,5 @@
 <template>
-    <div style="height: 100%; max-width:400px;  overflow-x : visible;">
+    <div style="height: 100%; max-width:400px;  overflow-x : visible; background-color: white;">
         <Card />
         <CardMail />
         <CardDoubleSocial />
