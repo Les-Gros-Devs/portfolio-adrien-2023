@@ -29,15 +29,16 @@
 }
 
 img {
-    width: 45px;
-    height: 45px;
+    width: 40px;
+    height: 40px;
     object-fit: cover;
     border-radius: 50%;
+    max-width: none;
 }
 @media (min-width: 360px) { 
   img{
-    width: 100%;
-    height: 40px;
+    width: 45px;
+    height: 45px;
     object-fit: cover;
     border-radius: 50%;
   }

@@ -2,8 +2,7 @@
 <template>
     <div class="my-2">
         <a class="card row" href="mailto:adrienthomas54@icloud.com">
-            <p>basée en france, rhone</p>
-            <p>UTC : +1</p>
+            <p>basée en france, rhône UTC : +1</p>
         </a>
 
     </div>
