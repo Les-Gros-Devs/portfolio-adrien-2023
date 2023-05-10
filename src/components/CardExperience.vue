@@ -36,10 +36,10 @@
             <div class="w-1/2">
               <div class="grid grid-rows-2 h-card-body w-full">
                 <div class="mb-1">
-                  <a class="card-50 row mb-2" href="../assets/img/Adrien THOMAS (1)_page-0001.jpg" target="_blank">
+                  <a class="card-50 row mb-2" href="../assets/img/AdrienTHOMAS.pdf" target="_blank">
                       Mon CV
                   </a>
-                  <a class="card-50 row m-0">
+                  <a class="card-50 row m-0 screen-4">
   
                   </a>
                 </div>
@@ -50,6 +50,14 @@
   
 
   <style scoped>
+  .screen-4{
+    background-image: url("../assets/img/leyener_beautiful_landing_for_web_development_website_design.png");
+    background-size: 105%;
+    background-position: center;
+    background-repeat: no-repeat;
+    
+  
+  }
   .card-50{
     width: 100%;
 }
